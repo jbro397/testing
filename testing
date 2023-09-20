@@ -1,0 +1,2 @@
+git config --global user.email "jbro397@lsu.edu"
+git config --global user.name "jbro397"
